@@ -1,0 +1,10 @@
+a=(1 , 2 ,5 , 1, "Patel" , 1)
+print(type(a))
+no=a.count(1)
+print(no)
+
+i=a.index(5)
+print(i)
+tuple1=(1 , 2, 3)
+tuple2=(4 , 5 , 6)
+print(tuple1 + tuple2)
